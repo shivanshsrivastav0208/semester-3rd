@@ -1,8 +1,8 @@
 const fs = require('fs');
 
 // 1. CREATE / WRITE
-const studentData = `Name: Smriti
-Roll Number: 101
+const studentData = `Name: Shivansh srivastav
+Roll Number: 1102
 Branch: CSE
 Semester: 3
 `;
